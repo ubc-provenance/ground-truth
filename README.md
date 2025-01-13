@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/852329526.svg)](https://doi.org/10.5281/zenodo.14641607)
+
 # ground-truth
 
 Ground truth node labels of DARPA E3 and E5 datasets.
